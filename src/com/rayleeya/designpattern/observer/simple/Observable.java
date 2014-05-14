@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * A simple Observable
  * 
  * The Observable is no need to be abstract, 
- * because it haven't to be extended, it can be combined.
+ * because it can be extended, and also can be combined.
  * 
  * @author Rayleeya
  *
